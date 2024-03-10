@@ -1,0 +1,4 @@
+node_modules
+.firebase
+.parcel-cache
+dist
